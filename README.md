@@ -1,1 +1,1 @@
-# gClassic stone paper scissor made using JavaScript,HTML,CSS
+# Classic stone paper scissor made using JavaScript,HTML,CSS
